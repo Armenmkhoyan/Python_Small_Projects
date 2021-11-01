@@ -1,0 +1,8 @@
+use_cache: True
+url: https://support.spatialkey.com/wp-content/uploads/2021/02/Sacramentorealestatetransactions.csv
+temp_folder: ./data
+temp_file: temp.csv
+output_file: result
+output_format: json
+rows_count: 10
+column_count: 5
